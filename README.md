@@ -8,13 +8,12 @@ Salão Alura nova versão da Barbearia Alura
 
 Projeto construído na inspirado na Barbearia Alura.
 
-[image.png Clique aqui para acessar https://github.com/jaciaradearaujo]
+[image.png Clique aqui para acessar https://github.com/jaciaradearaujo?tab=repositories
+
 
 ##image.png Tecnologias
-
 - HTML
 - CSS
-- Git e Github
 
 ## Contato (81) 99639-4058
 
